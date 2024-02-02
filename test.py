@@ -107,9 +107,9 @@ def load_model(type, path):
 
 def parser_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--path', type=str, default="/home/s2320014/data")
+    parser.add_argument('--path', type=str, default="/home/data")
     parser.add_argument('--type', type=str, default="auto")
-    parser.add_argument('--output_path', type=str, default="/home/s2320014/data")
+    parser.add_argument('--output_path', type=str, default="/home/data")
     parser.add_argument('--is_test', default=False, action='store_true')
     args = parser.parse_args()
     return args
