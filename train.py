@@ -75,10 +75,10 @@ def build_model(type, model, output_path=''):
 
 def parser_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--path', type=str, default="/home/s2320014/data")
+    parser.add_argument('--path', type=str, default="/home/data")
     parser.add_argument('--type', type=str, default="auto")
     parser.add_argument('--model', type=str, default="auto")
-    parser.add_argument('--output_path', type=str, default="/home/s2320014/data")
+    parser.add_argument('--output_path', type=str, default="/home/data")
     args = parser.parse_args()
     return args
 
