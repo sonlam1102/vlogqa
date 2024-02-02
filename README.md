@@ -9,7 +9,8 @@ Alternative email: son.lt1103@gmail.com
 
 ## How to run the code  
 For training: please run the train.py script.   
-For evaluation: please run the test.py script.   
+For evaluation: please run the test.py script.
+
 Required params (for both train.py and test.py):  
 --path: Path to the VlogQA dataset  
 --type: Type of model (eg. bert, xlm-r, phobert, etc). Default is auto   
