@@ -3,8 +3,12 @@ This project presents VlogQA - a new MRC dataset for Spoken-based language in Vi
 The VlogQA consists of 10,076 question-answer pairs based on 1,230 transcript documents. 
 Please note that the dataset is available for research purposes only. 
 
-## Data Inquiry
-Please contact Mr. Son Luu (Email: sonlt@uit.edu.vn) for the dataset.  
+## Data Inquiry   
+If you want to receive the dataset, please download the User Agreement Form (the file VlogQA_User_Agreement.pdf), filling your information, and sign your name. Then send the signed file in PDF version to Mr. Son Luu. After receiving the signed User Agreement, he will send you the dataset via email. 
+
+Contact information of Mr. Son Luu (Son T. Luu):    
+
+Working email (main): sonlt@uit.edu.vn  
 Alternative email: son.lt1103@gmail.com    
 
 ## How to run the code  
