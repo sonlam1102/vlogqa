@@ -3,7 +3,7 @@ This project presents VlogQA - a new MRC dataset for Spoken-based language in Vi
 The VlogQA consists of 10,076 question-answer pairs based on 1,230 transcript documents. 
 Please note that the dataset is available for research purposes only. 
 
-ACCESS the data in hugging face (gated): https://huggingface.co/datasets/sonlam1102/vlogqa 
+ACCESS the data in hugging face (gated): https://huggingface.co/datasets/uitnlp/vlogqa 
 
 ## Data Inquiry   
 If you want to receive the dataset, please download the User Agreement Form (the file VlogQA_User_Agreement.pdf), filling your information, and sign your name. Then send the signed file in PDF version to Mr. Son Luu. After receiving the signed User Agreement, he will send you the dataset via email. 
