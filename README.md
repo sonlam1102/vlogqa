@@ -13,6 +13,14 @@ Contact information of Mr. Son Luu (Son T. Luu):
 Working email (main): sonlt@uit.edu.vn  
 Alternative email: son.lt1103@gmail.com    
 
+## License
+The user of VlogQA developed by the NLP@UIT research group must respect the following terms and conditions:   
++ The dataset is only used for non-profit research for natural language processing and education.   
++ The dataset is not allowed to be used in commercial systems.   
++ Do not redistribute the dataset. This dataset may be modified or improved to serve a research purpose better, but the edited dataset may not be distributed.   
++ Summaries, analyses, and interpretations of the properties of the dataset may be derived and published, provided it is not possible to reconstruct the information from these summaries. 
+
+
 ## How to run the code  
 For training: please run the train.py script.   
 For evaluation: please run the test.py script.
